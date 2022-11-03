@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244235457265",
+    "project_id": "gameet-1172e",
+    "storage_bucket": "gameet-1172e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244235457265:android:3df249d783e475df2e4f50",
+        "android_client_info": {
+          "package_name": "com.tfg.gameet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244235457265-r8tnbvmr4i06bcqvh1g8498ah1j50332.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLYU6WVaC-K82z9CCfGUFPdC4HWNan22Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244235457265-r8tnbvmr4i06bcqvh1g8498ah1j50332.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
